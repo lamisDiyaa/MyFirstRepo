@@ -1,1 +1,1 @@
-I’ve learned how to create repositories, commit changes, and use branches!
+What I have learned from this course I’ve learned how to create repositories, commit changes, and use branches!
